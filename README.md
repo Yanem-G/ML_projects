@@ -1,4 +1,4 @@
 Machine Learning Projects
 
-Organized collection of ML projects .
+Organized collection of my ML projects .
 
