@@ -2,7 +2,7 @@
 
 ## Organized collection of my ML projects , I’ve worked on to explore and deepen my understanding of ML concepts .
 
-# Projects:
+# 📁 Projects:
 
 ## 1. Titanic Survival Prediction
 First ML project — a beginner-friendly classification project implemented in Python using scikit-learn and RandomForestClassifier.The goal is to predict passenger survival based on features such as Pclass, Sex, Age, Fare, SibSp, and Embarked.
