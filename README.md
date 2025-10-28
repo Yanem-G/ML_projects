@@ -26,3 +26,9 @@ A deep learning project using Convolutional Neural Networks (CNNs) and Transfer 
 ##  Stay Tuned
 More projects will be added as I continue to learn and experiment!
 
+## Author
+**Aymen Gnaoui**  
+ENSAM Casablanca – AI & Computer Engineering Student  
+[LinkedIn](https://www.linkedin.com/in/aymen-gnaoui-16603730b/)  
+gnaoui.aymen1@gmail.com
+
