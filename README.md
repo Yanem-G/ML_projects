@@ -19,6 +19,16 @@ A deep learning project using Convolutional Neural Networks (CNNs) and Transfer 
 
 - Dataset: [Dogs vs. Cats | Kaggle](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition)
 
+## 4. Customer Churn Prediction
+Predicting which customers are likely to leave using a Neural Network architecture.
+
+- Dataset: [Ultimate Customer Churn Prediction Challenge | Kaggle](https://www.kaggle.com/competitions/ultimate-customer-churn-prediction-challenge)
+
+## 5. Customized Linear Regression 
+Building Linear Regression from scratch (no scikit learn allowed) and testing it on simple dataset.
+
+- Dataset: [Salary Dataset - Simple linear regression | Kaggle](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression)
+
 ##  Notes
 - You can download them directly from the Kaggle links provided above.
 - Consider running deep learning projects in Google Colab with GPU support enabled.
